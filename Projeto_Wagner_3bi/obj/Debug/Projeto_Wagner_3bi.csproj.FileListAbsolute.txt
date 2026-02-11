@@ -1,0 +1,30 @@
+C:\Users\gabri\source\repos\Projeto_Wagner_3bi\Projeto_Wagner_3bi\bin\Debug\Projeto_Wagner_3bi.exe.config
+C:\Users\gabri\source\repos\Projeto_Wagner_3bi\Projeto_Wagner_3bi\bin\Debug\Projeto_Wagner_3bi.exe
+C:\Users\gabri\source\repos\Projeto_Wagner_3bi\Projeto_Wagner_3bi\bin\Debug\Projeto_Wagner_3bi.pdb
+C:\Users\gabri\source\repos\Projeto_Wagner_3bi\Projeto_Wagner_3bi\obj\Debug\Projeto_Wagner_3bi.csprojAssemblyReference.cache
+C:\Users\gabri\source\repos\Projeto_Wagner_3bi\Projeto_Wagner_3bi\obj\Debug\Projeto_Wagner_3bi.Form1.resources
+C:\Users\gabri\source\repos\Projeto_Wagner_3bi\Projeto_Wagner_3bi\obj\Debug\Projeto_Wagner_3bi.Properties.Resources.resources
+C:\Users\gabri\source\repos\Projeto_Wagner_3bi\Projeto_Wagner_3bi\obj\Debug\Projeto_Wagner_3bi.csproj.GenerateResource.cache
+C:\Users\gabri\source\repos\Projeto_Wagner_3bi\Projeto_Wagner_3bi\obj\Debug\Projeto_Wagner_3bi.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\Projeto_Wagner_3bi\Projeto_Wagner_3bi\obj\Debug\Projeto_Wagner_3bi.exe
+C:\Users\gabri\source\repos\Projeto_Wagner_3bi\Projeto_Wagner_3bi\obj\Debug\Projeto_Wagner_3bi.pdb
+D:\Programação Visual Básica\3º bimestre\Projeto_Wagner_3bi\Projeto_Wagner_3bi\bin\Debug\Projeto_Wagner_3bi.exe.config
+D:\Programação Visual Básica\3º bimestre\Projeto_Wagner_3bi\Projeto_Wagner_3bi\bin\Debug\Projeto_Wagner_3bi.exe
+D:\Programação Visual Básica\3º bimestre\Projeto_Wagner_3bi\Projeto_Wagner_3bi\bin\Debug\Projeto_Wagner_3bi.pdb
+D:\Programação Visual Básica\3º bimestre\Projeto_Wagner_3bi\Projeto_Wagner_3bi\obj\Debug\Projeto_Wagner_3bi.csprojAssemblyReference.cache
+D:\Programação Visual Básica\3º bimestre\Projeto_Wagner_3bi\Projeto_Wagner_3bi\obj\Debug\Projeto_Wagner_3bi.Form1.resources
+D:\Programação Visual Básica\3º bimestre\Projeto_Wagner_3bi\Projeto_Wagner_3bi\obj\Debug\Projeto_Wagner_3bi.Properties.Resources.resources
+D:\Programação Visual Básica\3º bimestre\Projeto_Wagner_3bi\Projeto_Wagner_3bi\obj\Debug\Projeto_Wagner_3bi.csproj.GenerateResource.cache
+D:\Programação Visual Básica\3º bimestre\Projeto_Wagner_3bi\Projeto_Wagner_3bi\obj\Debug\Projeto_Wagner_3bi.csproj.CoreCompileInputs.cache
+D:\Programação Visual Básica\3º bimestre\Projeto_Wagner_3bi\Projeto_Wagner_3bi\obj\Debug\Projeto_Wagner_3bi.exe
+D:\Programação Visual Básica\3º bimestre\Projeto_Wagner_3bi\Projeto_Wagner_3bi\obj\Debug\Projeto_Wagner_3bi.pdb
+E:\2º ano - E.M\Programação Visual Básica\3º bimestre\Projeto_Wagner_3bi\Projeto_Wagner_3bi\bin\Debug\Projeto_Wagner_3bi.exe.config
+E:\2º ano - E.M\Programação Visual Básica\3º bimestre\Projeto_Wagner_3bi\Projeto_Wagner_3bi\bin\Debug\Projeto_Wagner_3bi.exe
+E:\2º ano - E.M\Programação Visual Básica\3º bimestre\Projeto_Wagner_3bi\Projeto_Wagner_3bi\bin\Debug\Projeto_Wagner_3bi.pdb
+E:\2º ano - E.M\Programação Visual Básica\3º bimestre\Projeto_Wagner_3bi\Projeto_Wagner_3bi\obj\Debug\Projeto_Wagner_3bi.csprojAssemblyReference.cache
+E:\2º ano - E.M\Programação Visual Básica\3º bimestre\Projeto_Wagner_3bi\Projeto_Wagner_3bi\obj\Debug\Projeto_Wagner_3bi.Form1.resources
+E:\2º ano - E.M\Programação Visual Básica\3º bimestre\Projeto_Wagner_3bi\Projeto_Wagner_3bi\obj\Debug\Projeto_Wagner_3bi.Properties.Resources.resources
+E:\2º ano - E.M\Programação Visual Básica\3º bimestre\Projeto_Wagner_3bi\Projeto_Wagner_3bi\obj\Debug\Projeto_Wagner_3bi.csproj.GenerateResource.cache
+E:\2º ano - E.M\Programação Visual Básica\3º bimestre\Projeto_Wagner_3bi\Projeto_Wagner_3bi\obj\Debug\Projeto_Wagner_3bi.csproj.CoreCompileInputs.cache
+E:\2º ano - E.M\Programação Visual Básica\3º bimestre\Projeto_Wagner_3bi\Projeto_Wagner_3bi\obj\Debug\Projeto_Wagner_3bi.exe
+E:\2º ano - E.M\Programação Visual Básica\3º bimestre\Projeto_Wagner_3bi\Projeto_Wagner_3bi\obj\Debug\Projeto_Wagner_3bi.pdb
