@@ -10,8 +10,8 @@
 <h2>🚀 Como Executar:</h2>
 <p>Para executar o projeto, siga os passos abaixo:</p>
 <ol>
-<li>Abra o Visual Studio (versão compatível com .NET 4.8 ou superior).</li>
-<li>Clique em "Abrir Projeto/Solução".</li>
-<li>Selecione o arquivo "Projeto_Wagner_3bi.sln".</li>
+<li>Abra o Visual Studio (versão compatível com .NET 4.8 ou superior);</li>
+<li>Clique em "Abrir Projeto/Solução";</li>
+<li>Selecione o arquivo "Projeto_Wagner_3bi.sln";</li>
 <li>Compile e execute o projeto clicando em "Iniciar" ou pressionando F5.</li>
 </ol>
